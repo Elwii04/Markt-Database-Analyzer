@@ -2,7 +2,7 @@
 
 ## Projektbeschreibung
 
-Dieses Python-Skript dient der Analyse von Daten, die wahrscheinlich im Zusammenhang mit Online-Anzeigen oder Profilen stehen. Es liest Daten aus einer SQLite-Datenbank, führt verschiedene Datenverarbeitungsschritte durch (wie das Zusammenführen von Tabellen, Filtern und Berechnen von Zeitdifferenzen) und visualisiert die Ergebnisse, z.B. die durchschnittlichen Views nach Stadt oder die Verteilung von Ad-Pushes über den Tag.
+Dieses Python-Skript dient der Analyse und Auswertung von Daten die über einen Scraper gesammelt wurde. Es liest Daten aus einer SQLite-Datenbank, führt verschiedene Datenverarbeitungsschritte durch (wie das Zusammenführen von Tabellen, Filtern und Berechnen von Zeitdifferenzen) und visualisiert die Ergebnisse, z.B. die durchschnittlichen Views nach Stadt oder die Verteilung von Ad-Pushes über den Tag.
 
 ## Funktionsweise
 
